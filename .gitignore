@@ -1,0 +1,17 @@
+node_modules
+build
+test
+src/**.js
+.idea/*
+
+coverage
+.nyc_output
+*.log
+
+package-lock.json
+/token.json
+/es_data
+/input/users.json
+/credentials.json
+/.DS_Store
+/input/censored-emails.json
